@@ -69,7 +69,6 @@ W razie odpowiedzi N(no), program zostanie zakończony. Jeśli natomiast wpisane
   - `README` - README
   - `result.txt` - plik z zamienionym tekstem i słownikiem zawierającym wykryte wrażliwe treści i placeholdery
   - `requirements.txt` - wersje używanych przeze mnie bibliotek
-  - `RAMBLING.md` - mój rambling
 
 - foldery:
   - `txt/` - zawiera 2 przykładowe pliki txt
